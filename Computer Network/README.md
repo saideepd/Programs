@@ -1,0 +1,22 @@
+# Computer Networks
+#### The repository contains programs coded in Java as well as TCL which need to be run using NS2 simulator
+
++ [__Chat Application__](https://github.com/saideepd/Programs/tree/master/Computer%20Network/Chat%20appl)
++ [__Client Server__](https://github.com/saideepd/Programs/tree/master/Computer%20Network/clientserver)
++ [__Bit Stuffing__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/bitstuff.java)
++ [__Byte Stuffing__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/bytstuff.java)
++ [__Character Count__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/charcount.java)
++ [__Sliding Wnindow Protocol__](https://github.com/saideepd/Programs/tree/master/Computer%20Network/Sliding%20Window)
++ [__CRC__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/crc.java)
++ [__Dijkstra's Algorithm__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/dijkstra.java)
++ [__Distance Vector Routing__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/dvr1.c)
++ [__Hamming Code__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Hamming_Code.java)
++ [__Identify Classes of IP Address__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/IP.java)
++ [__Leaky Bucket__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Leaky.java)
++ [__Bus Topology__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Bustopology.tcl)
++ [__Ring Topology__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Ringtopology.tcl)
++ [__Star Topology__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Startopology.tcl)
++ [__Wired Topology__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/wiredtopology.tcl)
++ [__Mesh Topology__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/Meshtopology.tcl)
++ [__Stop and Wait__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/stopnwait.tcl)
++ [__TCP and UDP__](https://github.com/saideepd/Programs/blob/master/Computer%20Network/tcpudp.tcl)
