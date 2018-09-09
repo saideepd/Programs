@@ -4,7 +4,7 @@
         array db  00h,01h,02h,03h,04h,05h,06h,07h,08h,09h
 	max db 0
 .code
-start:  mov ax,@data
+start:mov ax,@data
 	mov ds,ax
 	xor di,di
 	mov cl,0Ah
