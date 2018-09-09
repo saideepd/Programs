@@ -1,7 +1,7 @@
 .model small
 .stack 100
 .data
-        array db  00h,01h,02h,03h,04h,05h,06h,07h,08h,09h
+	array db  00h,01h,02h,03h,04h,05h,06h,07h,08h,09h
 	max db 0
 .code
 start: mov ax,@data
