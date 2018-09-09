@@ -10,10 +10,10 @@ start:  mov ax,@data
 	mov cl,0Ah
 	lea bx,array
 	mov al,max
-back : 	cmp al,[bx+di]
+back:	cmp al,[bx+di]
 	jnc skip
-        mov al,[bx+di]
-skip: 	inc di
+	mov al,[bx+di]
+skip:	inc di
 	dec cl
 	jnz back
 	mov max,al
